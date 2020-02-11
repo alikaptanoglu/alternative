@@ -4,8 +4,8 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @font-face {
 	font-family: 'proximanovalight';
-	src: url(../fonts/proximanovalight.eot);
-	src: local('../fonts/proximanovalight'), url('../fonts/proximanovalight.woff') format('woff'), url('../fonts/proximanovalight.ttf') format('truetype');
+	src: url(https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.eot);
+	src: url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight'), url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.ttf') format('truetype');
 }
 html, body {
 	margin: 0;
@@ -855,7 +855,7 @@ h4.text-capitalize {
 	font-size: 13px;
 }
 .top-info {
-	background: #FFF;
+	background: #e9b8b8;
 }
 }
 
