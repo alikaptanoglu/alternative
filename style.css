@@ -802,7 +802,7 @@ h4.text-capitalize {
 
 @media (max-width: 999px) {
 .img-responsive {
-	width: 100%;
+	
 }
 .container-top > div.col-md-4 {
 	padding: 0;
@@ -861,7 +861,6 @@ h4.text-capitalize {
 
 @media (max-width: 580px) {
 .img-post {
-	width: 100px;
 }
 }
 
