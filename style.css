@@ -5,7 +5,7 @@
 @font-face {
 	font-family: 'proximanovalight';
 	src: url(https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.eot);
-	src: url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight'), url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.ttf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/alikaptanoglu/fonts/proximanovalight.ttf') format('truetype');
 }
 html, body {
 	margin: 0;
